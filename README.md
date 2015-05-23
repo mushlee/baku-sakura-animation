@@ -6,7 +6,7 @@ baku-sakura-animation
 * [Mushlee](http://mushlee.web.fc2.com/) の曲「さかなとねこ」の Japan Expo 用動画素材
 * 桜の木の下のバクときのこと星
 * ただの素材なのでGoogleChrome専用(あとでwebに後悔するときには他のブラウザの対応入れるかも)
-* [preview](baku-mushrooms-and-sakura-animation)
+* [preview](http://mushlee.github.io/sakurabaku-animation/)
 
 元画像
 ------
